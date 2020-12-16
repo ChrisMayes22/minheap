@@ -1,0 +1,9 @@
+{
+  "name": "minheap",
+  "version": "1.0.0",
+  "description": "Implements a minheap for JS",
+  "main": "minheap.js",
+  "author": "Chris Mayes",
+  "license": "MIT",
+  "private": false
+}
